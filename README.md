@@ -1,3 +1,2 @@
 #INTEGRANTES:
-Jorge Alejandro Arias Vargas,
-Huver Olaya Méndez
+Jorge Alejandro Arias Vargas,Huver Olaya Méndez
